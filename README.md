@@ -84,7 +84,7 @@ Building clouds of code, chasing the future 🚀
 
 <p align="center">
   <a href="ttps://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/nikhilsinghal6305">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+    <img src="(https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)"/>
   </a>
   <a href="[https://YOUR_PORTFOLIO_LINK](https://nikhilsinghal.vercel.app/Resume.pdf)">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
