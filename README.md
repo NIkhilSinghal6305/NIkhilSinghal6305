@@ -50,8 +50,8 @@ Building scalable web experiences and real-world projects 🚀
 ## 🚀 Cool Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NIkhilSinghal6305&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIkhilSinghal6305&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NIkhilSinghal6305&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NIkhilSinghal6305&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
 ---
