@@ -50,8 +50,8 @@ Building scalable web experiences and real-world projects 🚀
 ## 🚀 Cool Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilsinghal&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsinghal&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NIkhilSinghal6305&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIkhilSinghal6305&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -59,7 +59,7 @@ Building scalable web experiences and real-world projects 🚀
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nikhilsinghal&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=NIkhilSinghal6305&theme=dark&hide_border=true" />
 </p>
 
 ---
@@ -67,7 +67,7 @@ Building scalable web experiences and real-world projects 🚀
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhilsinghal&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NIkhilSinghal6305&theme=github_dark" />
 </p>
 
 ---
