@@ -59,7 +59,7 @@ Building scalable web experiences and real-world projects 🚀
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=NIkhilSinghal6305&theme=dark&hide_border=true" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=NIkhilSinghal6305&theme=dark&hide_border=true" />
 </p>
 
 ---
